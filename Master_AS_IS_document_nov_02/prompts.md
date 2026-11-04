@@ -1,4 +1,6 @@
-# Generate a Project-Specific AS-IS Design Document Generator Skill
+-----------Skill Generation Prompt--------------
+
+Generate a Project-Specific AS-IS Design Document Generator Skill
 
 You are acting as a **Senior Solution Architect, Business Analyst, Data Engineer, Technical Documentation Specialist, and Claude Code Skill Engineer**.
 
